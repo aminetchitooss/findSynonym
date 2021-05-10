@@ -2,6 +2,7 @@
 	"name": "tchitos-findsyn",
 	"displayName": "Tchitos FindSyn",
 	"description": "finding synonyms for selected word",
+	"publisher": "Tchitos",
 	"version": "0.0.1",
 	"icon": "icon.png",
 	"repository": {
