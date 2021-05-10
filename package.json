@@ -6,7 +6,7 @@
 	"icon": "icon.png",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/aminetchitooss/finSynExtension"
+		"url": "https://github.com/aminetchitooss/findSynonym"
 	},
 	"engines": {
 		"vscode": "^1.56.0"
